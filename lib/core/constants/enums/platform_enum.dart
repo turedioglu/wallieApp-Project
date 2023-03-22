@@ -1,0 +1,1 @@
+enum ApplicationPlatform { prod, debug }
