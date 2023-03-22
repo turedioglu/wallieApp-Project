@@ -1,6 +1,6 @@
 # wallpaper_app
 
-Dünya Saatleri Uygulaması.
+Wallpaper Uygulaması
 
 ## Uygulamaya Başlarken :
 
