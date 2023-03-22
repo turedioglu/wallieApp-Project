@@ -1,16 +1,12 @@
 # wallpaper_app
 
-A new Flutter project.
+Dünya Saatleri Uygulaması.
 
-## Getting Started
+## Uygulamaya Başlarken :
 
-This project is a starting point for a Flutter application.
+Uygulama Flutter 3.7.6 versiyonunda kodlanmıştır.
 
-A few resources to get you started if this is your first Flutter project:
+## Uygulamaya Ait Ekran Görüntüleri :
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="assets/images/splash.png" width="150"/> <img src="assets/images/home.png" width="150"/> <img src="assets/images/ios.png" width="150"/> <img src="assets/images/android.png" width="150"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
